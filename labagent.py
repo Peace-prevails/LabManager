@@ -359,7 +359,7 @@ def get_optimized_prompt_templates():
     factual_template = """
 The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
 Do not include document separators or section markers in your answer. Do not make up information.
-Be specific and detailed in your response. Answer based on this context:
+Be specific and detailed in your response. Answer based on this context and select useful information based on the query:
 {context}
 
 Question: {question}
@@ -381,7 +381,7 @@ Creative response:"""
     summary_template = """
 The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
 Do not include document separators or section markers in your answer. Do not make up information.
-Be concise and logical in your response. Summarize based on this context:
+Be concise and logical in your response. Summarize based on this context and select useful information based on the query:
 {context}
 
 Request: {question}
@@ -392,7 +392,7 @@ Summary:"""
     analysis_template = """
 The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
 Do not include document separators or section markers in your answer. Do not make up information.
-Be specific and precise in your response. Analyze based on this context:
+Be specific and precise in your response. Analyze based on this context and select useful information based on the query:
 {context}
 
 Request: {question}
@@ -894,6 +894,7 @@ User Query: {query}
 
 Please provide a concise and accurate answer to the user's query based on the document summary.
 If the summary doesn't contain relevant information to answer the query, say so clearly.
+Do not include document separators or section markers in your answer.
 Must Organize your answer in a fluent, structured language.
 
 Answer:
