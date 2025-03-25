@@ -1,0 +1,161 @@
+MRI Study Participant Recruitment Process and Guidelines
+Including Considerations Specific to New York City
+
+I. Recruitment Process
+
+1. Pre-Study Preparation
+- Define research objectives and study design
+- Obtain approval from the Institutional Review Board (IRB)
+- Prepare a detailed experimental protocol and risk assessment
+- Establish clear inclusion and exclusion criteria for participants
+- Prepare informed consent forms and recruitment materials
+
+NYC-Specific Tip:
+- Confirm IRB compliance not only with your university but also with NYC Department of Health (NYCDOH) if your study involves public health data or minors.
+- When working across institutions (e.g., NYU, Columbia, CUNY), ensure proper data sharing agreements are in place.
+
+2. Recruitment Channels
+- Internal announcements within universities/research institutions
+- Social media and online research participation platforms
+- Research volunteer databases
+- Hospitals or clinics (for patient-based studies)
+- Community centers and bulletin boards
+- Word-of-mouth and snowball recruitment
+
+NYC-Specific Tip:
+- Use platforms like “StudyFinder” at NYC medical centers and local organizations such as the NYC Health + Hospitals system.
+- Hang bilingual flyers (e.g., English–Spanish, English–Chinese) in high-traffic subway stations near health campuses.
+- Contact community-based organizations and local churches or cultural centers for reaching underrepresented populations.
+
+3. Screening Process
+- Initial online questionnaire (basic info, health history)
+- Phone screening interview
+- MRI safety screening form (detailed metal implant and contraindication assessment)
+- Medical evaluation (if necessary)
+- Cognitive or study-specific assessments
+
+NYC-Specific Tip:
+- Offer screeners in multiple languages common in NYC: Spanish, Mandarin, Cantonese, Russian, Bengali.
+- Be flexible with scheduling, including evenings or weekends, to accommodate working participants.
+
+4. Formal Enrollment
+- Explain the study’s purpose, procedures, and risks clearly
+- Obtain signed informed consent
+- Schedule MRI sessions
+- Provide pre-scan instructions
+
+NYC-Specific Tip:
+- Consider giving a printed or email copy of directions to the MRI site, including MTA subway and bus routes.
+- Offer travel reimbursements via pre-loaded MetroCards or provide options for paratransit if needed.
+
+II. MRI Safety Screening Highlights
+
+1. Absolute Contraindications (Do NOT enroll if any apply):
+- Pacemakers or implantable defibrillators
+- Brain aneurysm clips
+- Electronic implants (neurostimulators, etc.)
+- Cochlear implants or hearing devices
+- Metallic fragments (especially around eyes)
+- Certain cardiac valves or stents
+- Recent surgery (metal clips/sutures within 6 weeks)
+
+2. Conditions Requiring Special Evaluation:
+- Any metal implant (MRI compatibility must be confirmed)
+- Tattoos with metallic inks (usually older ones)
+- Permanent makeup
+- Dental appliances or braces
+- IUDs or contraceptive implants
+- Embedded shrapnel or metal fragments
+- Participants exceeding scanner’s height/weight limits
+
+3. Temporary Exclusions:
+- Pregnancy or possible pregnancy (depends on ethics approval)
+- Claustrophobia
+- Severe movement disorders
+- Currently taking medications that interfere with scanning
+
+III. Pre-Scan Preparation
+
+1. Day-of-Scan Instructions:
+- Wear comfortable, metal-free clothes (cotton preferred)
+- Remove all jewelry, hair clips, watches, etc.
+- Do not wear metallic cosmetics (e.g., eyeliner)
+- Eat normally unless fasting is required
+- Limit caffeine before scan if sensitive
+
+NYC-Specific Tip:
+- Alert participants to allow extra time due to possible MTA delays.
+- Offer text-message reminders or phone calls the night before and day of the scan.
+
+2. Personal Items:
+- Secure lockers provided
+- Remove all metal items:
+  * Keys, coins, phones
+  * Credit cards (magnetic strip damage)
+  * Belts, bras with underwire
+  * Glasses, hearing aids
+  * Removable dental appliances
+
+3. Adapting to Environment:
+- Offer earplugs or headphones for noise
+- Describe typical scan sensations (noise, vibrations)
+- Demonstrate emergency call button use
+
+IV. Ethics and Communication
+
+1. Informed Consent:
+- Clearly explain study goals and participant role
+- Detail risks, discomforts, and confidentiality
+- Emphasize voluntary nature and right to withdraw
+- Explain compensation or reimbursement policies
+
+2. Effective Communication:
+- Use simple, non-technical language
+- Provide time for participant questions
+- Ensure full understanding before proceeding
+- Offer a 24/7 contact for follow-up concerns
+
+NYC-Specific Tip:
+- Ensure compliance with NYC Language Access policies; use certified translators or bilingual staff.
+- Provide accessible formats (e.g., large print, translated forms) for elderly or disabled participants.
+
+3. Special Populations:
+- Minors: Obtain guardian consent and child assent
+- Elderly: Assess cognitive ability, ensure understanding
+- Language barriers: Use translated documents or interpreters
+- Individuals with disabilities: Offer full accessibility accommodations
+
+V. Post-Experiment Follow-up
+
+1. Immediate Feedback:
+- Ask about discomfort or issues
+- Record adverse events or incidents
+
+2. Long-Term Follow-Up:
+- Provide medical referral if issues arise
+- Inform participants of any important study findings
+- Offer summary of results if promised
+
+3. Data Handling:
+- Store all data securely
+- Maintain strict confidentiality
+- Comply with HIPAA and IRB protocols
+
+VI. Special Case Handling
+
+1. Incidental Findings:
+- Establish protocols for handling unexpected clinical findings
+- Ensure review by qualified radiologist
+- Decide how and when to notify participants
+
+2. Discomfort and Withdrawal:
+- Train staff to recognize signs of distress
+- Have clear stop-scan and emergency exit procedures
+- Respect withdrawal without pressure
+
+3. Compensation Policy:
+- Explain differences for full vs. partial completion
+- Have a plan for technical failures or cancellations
+
+Final Note:
+This document should be adapted to the study’s goals, the institution’s policies, and updated MRI safety guidelines. In New York City, plan around linguistic diversity, complex transit, and health equity. Always prioritize participant safety and dignity.

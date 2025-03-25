@@ -1,0 +1,54 @@
+Human Connectome Project (HCP) Dataset Introduction
+
+The Human Connectome Project (HCP) is a large-scale research initiative funded by the National Institutes of Health (NIH), aimed at constructing structural and functional connectivity maps of the healthy human brain. The project is a collaborative effort between Washington University, the University of Minnesota, Oxford University, and other institutions.
+
+Project Overview
+The HCP was launched in 2010, initially planning to collect multimodal brain imaging data from 1,200 healthy young adults (22-35 years old). The project ultimately completed data acquisition from approximately 1,100 participants. The project emphasizes data quality and standardization, using advanced MRI technology to obtain unprecedented high-quality, high-resolution data.
+
+Data Acquisition Content
+1. **Structural MRI**
+   - T1-weighted images (0.7mm isotropic voxel resolution)
+   - T2-weighted images (0.7mm isotropic voxel resolution)
+
+2. Diffusion MRI (dMRI)
+   - Multi-shell diffusion-weighted imaging
+   - b-values: 1000, 2000, 3000 s/mm²
+   - Directions: 90 directions (1000) + 90 directions (2000) + 90 directions (3000)
+   - Resolution: 1.25mm isotropic voxels
+
+3. Functional MRI (fMRI)
+   - Resting-state fMRI (approximately 15 minutes, collected in 4 sessions)
+   - Task-based fMRI (7 task paradigms)
+   - Temporal resolution: 720ms
+   - Spatial resolution: 2mm isotropic voxels
+
+4. Magnetoencephalography (MEG)
+   - Resting-state and task-based
+   - Paradigms matching fMRI tasks
+
+5. Behavioral and Cognitive Measurements
+   - NIH Toolbox cognitive tests
+   - Personality tests
+   - Quality of life and health status questionnaires
+   - Family history
+
+Database Features
+1. Open Sharing: Data is available to global researchers, promoting neuroscience research development
+2. High Quality: Uses specially developed hardware and optimized acquisition sequences
+3. Small Voxels: 2-4 times higher voxel resolution than conventional brain imaging studies
+4. Multimodal: Integrates multiple imaging techniques, providing comprehensive brain connectivity information
+5. Standardized: Unified data acquisition and processing workflows, facilitating large-scale analysis
+
+Extended Projects
+- HCP Development (HCP-D): Studies brain development in children and adolescents aged 5-21
+- HCP Aging (HCP-A): Studies brain aging in adults aged 36-100
+- HCP Disease: Studies brain connectivity changes in various neurological and psychiatric disorders
+
+Research Impact
+The HCP dataset has become one of the most important open data resources in the field of neuroscience, driving rapid development in human brain connectomics and providing valuable resources for understanding brain structure-function relationships, individual differences, brain development, and aging.
+
+Data Access
+Researchers can apply for data access through the ConnectomeDB website (https://db.humanconnectome.org). Data is available at different access levels, with basic MRI data freely downloadable, while data containing genetic information requires additional ethical approval.
+
+Citation
+Acknowledgment: Research reported in this publication was supported by the National Institutes of Health under Award Number U24NS135568, R01AG077422, RFNS110041 and R01NS108491 as well as by funds provided by the McDonnell Center for Systems Neuroscience at Washington University in St. Louis. The HCP-Aging 2.0 Release data used in this report came from DOI: 10.15154/1520707. P41 EB015894, P30 NS076408, Human Connectome Project (1U54 MH091657), and UL1TR000114.

@@ -1,0 +1,249 @@
+# RESEARCH GRANT WRITING PRINCIPLES TEMPLATE
+## NYU RADIOLOGY DEPARTMENT
+
+--------------------------------------------------------------
+
+## 1. GRANT STRUCTURE FUNDAMENTALS
+
+### 1.1 Title
+- Concise yet descriptive (15 words maximum)
+- Include innovative methodology or technology
+- Highlight clinical relevance and potential impact
+- Avoid jargon and abbreviations
+
+### 1.2 Abstract/Summary (30 lines maximum)
+- Problem statement and significance
+- Knowledge gap addressed
+- Central hypothesis and approach
+- Expected outcomes and impact
+- Relevance to NYU Radiology's mission and priorities
+
+### 1.3 Specific Aims (1 page)
+- 2-3 focused, achievable aims
+- Each aim should be testable and hypothesis-driven
+- Logical progression between aims
+- Aims should be interconnected but not dependent
+- End with expected outcomes and significance
+
+### 1.4 Research Strategy
+- Significance (1-2 pages)
+  * Importance of the problem
+  * Critical barriers to progress
+  * How project will improve scientific knowledge
+  * Technical and clinical impact
+
+- Innovation (0.5-1 page)
+  * Novel concepts, approaches, or methodologies
+  * Technological innovations or refinements
+  * Advantages over existing methodologies
+
+- Approach (6-8 pages)
+  * Preliminary data supporting feasibility
+  * Detailed methodology for each aim
+  * Expected outcomes and interpretation
+  * Potential pitfalls and alternative strategies
+  * Timeline and benchmarks
+
+### 1.5 Other Required Components
+- References
+- Budget and justification
+- Facilities and resources
+- Biosketches of investigators
+- Letters of support
+- Human subjects or vertebrate animals sections (if applicable)
+
+--------------------------------------------------------------
+
+## 2. NYU RADIOLOGY-SPECIFIC PRINCIPLES
+
+### 2.1 Institutional Priorities
+- Align with NYU Langone Health's strategic vision
+- Address at least one area of departmental focus:
+  * Advanced imaging techniques
+  * Artificial intelligence/machine learning
+  * Molecular imaging
+  * Image-guided interventions
+  * Quantitative imaging biomarkers
+  * Translational research
+
+### 2.2 Multidisciplinary Collaboration
+- Include collaborators from complementary fields
+- Leverage NYU's Center for Advanced Imaging Innovation and Research (CAI²R)
+- Demonstrate integration with clinical departments when applicable
+- Highlight access to NYU Technology Ventures and Partnerships
+
+### 2.3 Technical Resources
+- Specify required imaging modalities (MRI, CT, PET, ultrasound, etc.)
+- Detail computational resources and software needs
+- Identify laboratory space and equipment requirements
+- Highlight access to NYU's high-performance computing cluster
+
+### 2.4 Patient Population
+- Describe access to relevant patient populations
+- Include power analysis for sample size
+- Address recruitment strategies and retention plans
+- Demonstrate feasibility of enrollment goals
+
+--------------------------------------------------------------
+
+## 3. WRITING STYLE AND PRESENTATION
+
+### 3.1 General Writing Principles
+- Use active voice and present tense
+- Write for intelligent non-specialists
+- Define all abbreviations and technical terms
+- Use clear, concise sentences and paragraphs
+- Employ topic sentences and transition phrases
+
+### 3.2 Formatting Best Practices
+- Use headers, subheaders, and formatting to enhance readability
+- Include figures with informative legends
+- Use tables to summarize complex information
+- Incorporate white space effectively
+- Ensure consistent font and formatting throughout
+
+### 3.3 Persuasive Elements
+- Highlight PI and team qualifications
+- Emphasize preliminary data and proof of concept
+- Demonstrate awareness of competing approaches
+- Address potential criticisms proactively
+- Clearly articulate significance and impact
+
+--------------------------------------------------------------
+
+## 4. FUNDING AGENCY-SPECIFIC CONSIDERATIONS
+
+### 4.1 NIH
+- Emphasize public health relevance
+- Address specific institute priorities
+- Follow NIH review criteria (Significance, Investigators, Innovation, Approach, Environment)
+- Include detailed human subjects/clinical trials information
+
+### 4.2 NSF
+- Focus on intellectual merit and broader impacts
+- Emphasize basic science and technological innovation
+- Include education and outreach components
+- Demonstrate cross-disciplinary integration
+
+### 4.3 Private Foundations
+- Align closely with foundation's mission
+- Demonstrate potential for rapid clinical translation
+- Emphasize potential for subsequent funding
+- Include plans for dissemination and knowledge transfer
+
+### 4.4 Industry Partners
+- Highlight commercial potential
+- Include clear deliverables and milestones
+- Address intellectual property considerations
+- Demonstrate value proposition for industry partner
+
+--------------------------------------------------------------
+
+## 5. PRE-SUBMISSION CHECKLIST
+
+### 5.1 Internal Review
+- Departmental scientific review
+- Biostatistics consultation
+- Budget review and justification
+- Regulatory compliance review
+
+### 5.2 Technical Elements
+- Adherence to page limits and formatting requirements
+- Completeness of all required sections
+- Proper integration of figures and tables
+- Correct citation format
+
+### 5.3 Strategic Considerations
+- Appropriate study section or review panel
+- Addressing previous reviewer comments (if resubmission)
+- Including diverse perspectives in research team
+- Demonstrating institutional commitment
+
+### 5.4 Timeline
+- Allow 4-6 weeks for internal review process
+- Submit to NYU Office of Sponsored Programs 5 business days before deadline
+- Schedule pre-submission planning meeting with department research administration
+- Identify upcoming submission cycles and plan accordingly
+
+--------------------------------------------------------------
+
+## 6. DEPARTMENTAL RESOURCES
+
+### 6.1 Pre-Award Support
+- Grant writing workshops and seminars
+- Sample funded proposals
+- Biostatistics consultation
+- Editing and graphic design services
+
+### 6.2 Key Contacts
+- Department Research Administrator
+- Vice Chair for Research
+- Grants Management Office
+- Institutional Review Board liaison
+
+### 6.3 Budgeting Guidelines
+- Current salary and fringe benefit rates
+- Equipment and supply cost standards
+- Patient recruitment and compensation guidelines
+- Imaging center fee schedule
+
+--------------------------------------------------------------
+
+## 7. COMMON PITFALLS TO AVOID
+
+### 7.1 Scientific Content
+- Overly ambitious aims
+- Lack of clear hypotheses
+- Inadequate preliminary data
+- Insufficient consideration of limitations and alternatives
+
+### 7.2 Presentation
+- Dense, jargon-filled text
+- Poor organization and flow
+- Inadequate visual elements
+- Typos and grammatical errors
+
+### 7.3 Strategic Errors
+- Misalignment with funding priorities
+- Unclear significance or impact
+- Insufficient expertise on research team
+- Inadequate description of methods
+
+### 7.4 Administrative Issues
+- Missing required components
+- Budget errors or inconsistencies
+- Biosketches not following required format
+- Incomplete regulatory information
+
+--------------------------------------------------------------
+
+## 8. SUCCESSFUL GRANT ATTRIBUTES
+
+### 8.1 Scientific Excellence
+- Novel, significant research question
+- Rigorous methodology
+- Feasible timeline and approach
+- Compelling preliminary data
+
+### 8.2 Clear Impact
+- Addresses important problem in field
+- Potential for clinical translation
+- Advances technical capabilities
+- Creates new research directions
+
+### 8.3 Investigator Strengths
+- Demonstrated expertise in relevant areas
+- Productive publication record
+- History of successful collaboration
+- Appropriate mentorship plan (for career development grants)
+
+### 8.4 Institutional Support
+- Access to necessary resources
+- Protected time for research
+- Commitment to project success
+- Track record of successful grant management
+
+--------------------------------------------------------------
+
+LAST UPDATED: March 2025
+CONTACT: research.radiology@nyulangone.org

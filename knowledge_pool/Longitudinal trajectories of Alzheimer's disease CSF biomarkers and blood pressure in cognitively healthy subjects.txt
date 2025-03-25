@@ -1,0 +1,9 @@
+Introduction: We examined whether hypertension (HTN) was associated with Alzheimer's disease-related biomarkers in cerebrospinal fluid (CSF) and how changes in blood pressure (BP) related to changes in CSF biomarkers over time.
+
+Methods: A longitudinal observation of cognitively healthy normotensive subjects (n = 134, BP < 140/90, with no antihypertensive medication), controlled HTN (n = 36, BP < 140/90, taking antihypertensive medication), and 35 subjects with uncontrolled HTN (BP ≥ 140/90). The follow-up range was 0.5to15.6 years.
+
+Results: Total tau (T-tau) and phospho-tau181 (P-tau 181) increased in all but controlled HTN subjects (group×time interaction: p < 0.05 for both), but no significant Aβ42 changes were seen. Significant BP reduction was observed in uncontrolled HTN, and it was related to increase in T-tau (p = 0.001) and P-tau 181 (p < 0.001).
+
+Discussion: Longitudinal increases in T-tau and P-tau 181 were observed in most subjects; however, only uncontrolled HTN had both markers increase alongside BP reductions. We speculate cumulative vascular injury renders the brain susceptible to relative hypoperfusion with BP reduction.
+
+Highlights: Over the course of the study, participants with uncontrolled HTN at baseline showed greater accumulation of CSF total tau and phospho-tau181 (P-tau 181) than subjects with normal BP or with controlled HTN. In the group with uncontrolled HTN, increases in total tau and P-tau 181 coincided with reduction in BP. We believe this highlights the role of HTN in vascular injury and suggests decline in cerebral perfusion resulting in increased biomarker concentrations in CSF. Medication use was the main factor differentiating controlled from uncontrolled HTN, indicating that earlier treatment was beneficial for preventing accumulations of pathology.

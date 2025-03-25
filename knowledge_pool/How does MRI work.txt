@@ -1,0 +1,63 @@
+Here's the English translation of your text titled **"Principles of Magnetic Resonance Imaging (MRI)":
+
+---
+
+Principles of Magnetic Resonance Imaging (MRI)
+
+Magnetic Resonance Imaging (MRI) is a non-invasive medical imaging technique that utilizes strong magnetic fields, magnetic field gradients, and radiofrequency (RF) pulses to manipulate the magnetic behavior of hydrogen nuclei in the body, thereby producing high-resolution internal images.
+
+---
+
+Basic Physical Principles
+
+1. Nuclear Magnetic Resonance Phenomenon 
+   MRI primarily relies on the magnetic properties of hydrogen nuclei (protons). Since approximately 70% of the human body is composed of water and thus rich in hydrogen atoms, it makes an ideal subject for MRI imaging.
+
+2. Behavior of Protons in a Magnetic Field
+   - In their natural state, the magnetic moments of protons in the body are randomly oriented.  
+   - When placed in a strong magnetic field (typically 1.5 to 3 Tesla), the protons align with the direction of the field.  
+   - These aligned protons begin to precess at a specific frequency, known as the **Larmor frequency**.
+
+3. Radiofrequency Pulses and Signal Generation 
+   - A radiofrequency (RF) pulse of a specific frequency is applied to the tissue.  
+   - Protons absorb energy and are excited, deviating from their equilibrium state.  
+   - Once the RF pulse is turned off, protons return to their original alignment (relaxation) and release the absorbed energy.  
+   - The released energy is detected by receiver coils in the form of RF signals.
+
+4. Key Imaging Parameters
+   - T1 Relaxation Time (Longitudinal Relaxation):** The time constant describing the recovery of protons along the magnetic field direction.  
+   - T2 Relaxation Time (Transverse Relaxation):** The time constant associated with the loss of phase coherence among protons.
+
+---
+
+Imaging Sequence Types
+
+1. T1-Weighted Images
+   - Fatty tissues appear bright (high signal), while water appears dark (low signal).  
+2. T2-Weighted Images
+   - Tissues with high water content appear bright.  
+3. Proton Density (PD) Weighted Images
+   - Show contrast based on the density of hydrogen protons in tissues.  
+4. Functional MRI (fMRI)
+   - Measures blood oxygen level-dependent (BOLD) changes related to neural activity.  
+5. Diffusion Tensor Imaging (DTI) 
+   - Measures the directional movement of water molecules, useful for mapping neural fiber tracts.
+
+---
+
+Advantages of MRI
+
+- No ionizing radiation; high safety profile  
+- Superior soft tissue contrast compared to CT  
+- Multi-parametric imaging capabilities providing detailed anatomical and functional information  
+- Capable of imaging in multiple planes (axial, coronal, sagittal, etc.)
+
+Limitations of MRI
+- Relatively long scan times  
+- Restrictions for individuals with certain metallic implants (e.g., pacemakers)  
+- High equipment and maintenance costs  
+- May cause discomfort or anxiety in patients with claustrophobia
+
+ Clinical Applications
+
+MRI is widely used in the evaluation of the nervous system, musculoskeletal system, cardiovascular system, and abdominal organs. It is particularly invaluable in diagnosing central nervous system disorders such as brain tumors, cerebrovascular diseases, and demyelinating disorders.

@@ -1,0 +1,79 @@
+BigPurple Hardware
+CRAY® CS500™ Cluster
+BigPurple is the current generation of the NYU Langone Health’s high-performance computing cluster. The supercomputer is powered by CRAY® CS500 and CS-STORM™ nodes offering a highly scalable resource for a variety of research computing jobs. The cluster is managed with Slurm Workload Manager.
+
+BigPurple consist of 97 nodes (each powered by 2x Xeon® Gold 6148 CPUs):
+
+54 General Purpose nodes (386GB RAM)
+25 GPU Quad Tesla nodes (4x Tesla V100; 386GB RAM)
+8 GPU Octa-Tesla nodes (8x Tesla V100; 768GB RAM)
+4 High Memory nodes (1536GB RAM)
+4 Data Mover nodes (386GB RAM)
+4 Login nodes (386GB RAM)
+A variety of novel technologies, including Intel Skylake processors, NVIDIA Tesla V100 GPUs, NVLINK, NVMe SSD, GPUDirect RDMA, Adaptive Routing and in-network memory/computing are implemented in this new supercomputer designed to advance such diverse computational workflows as machine learning, image analysis, predictive health analytics, bioinformatics and massively parallel bio-molecular simulations.
+
+BigPurple Computational Node Specifications
+Below is a detailed list of the computational resources available to you on the Next Generation High Performance Computer, BigPurple, at NYU Langone Health.
+
+Login Nodes
+Four load balanced Login nodes are available to facilitate the access to the cluster in a High Availability fashion that ensures the resources are readily available and under subscribed. The Login nodes can be accessed directly, where you can submit jobs to the Job Scheduler. Click here for directions on accessing the login nodes. Applications should never run directly on the login nodes, they must always be submitted through the job scheduler.
+
+4 x Cray CS500
+2 x Skylake 6148, 20-core, 2.4GHz, 150W processors
+12 x 32GB DDR4-2666 DIMMs (DUAL RANKED) , 384 GB/node, 9.6 GB/core
+1 x 2TB SATA disk
+1 x 2TB NVMe SSD
+1 x EDR 100Gb/s Infiniband network interface for MPI and Data traffic
+1 x 40Gb/s NYUMC network interface for system access
+General Purpose Compute Nodes
+Big Purple includes 52 production and 2 development, high powered CPU computational nodes for intensive and distributed computing. The BigPurple application stack is available on each compute node and can be accessed through the Slurm job scheduler . The CPU Compute nodes are part of the cpu_dev, cpu_short, cpu_medium, and cpu_long partitions.
+
+54 x Cray CS500
+2 x Skylake 6148, 20-core, 2.4GHz, 150W processors
+12 x 32GB DDR4-2666 DIMMs (DUAL RANKED) , 384 GB/node, 9.6 GB/core
+1 x 2TB SATA disk
+1 x 2TB NVMe SSD
+1 x EDR 100Gb/s Infiniband network interface for MPI and Data traffic
+4 x GPU Nodes
+Big Purple includes 24 production and 1 development 4xGPU nodes with state of the art Tesla V100 GPUs. These nodes are for highly parallel GPU accelerated applications which can be found in the module application stack. The nodes can be accessed through the Slurm job scheduler in the gpu4_dev, gpu4_short, gpu4_medium, and gpu4_long partitions
+
+25 x Cray CS-Storm 500NX
+2 x Skylake 6148, 20-core, 2.4GHz, 150W processors
+12 x 32GB DDR4-2666 DIMMs (DUAL RANKED) , 384 GB/node, 9.6 GB/core
+4 NVIDIA® Tesla V100 GPUs
+GPU-to-GPU NVLINK
+GPUDirect RDMA
+2 x 2TB 2.5” SATA HDD
+2 x 2TB NVMe SSD
+1 x EDR 100Gb/s Infiniband network interface for MPI and Data traffic
+8 x GPU Nodes
+Big Purple includes 6 production and 1 development configured with eight Tesla V100 GPUs each for very large and Memory intensive GPU accelerated processes. These nodes can be accessed through the Slurm job scheduler in the gpu8_dev, gpu8_short, gpu8_medium, and gpu8_long partitions
+
+7 x Cray CS-Storm 500NX
+2 x Skylake 6148, 20-core, 2.4GHz, 150W processors
+8 NVIDIA® Tesla V100 GPUs
+GPU-to-GPU NVLINK
+GPUDirect RDMA
+24 x 32GB DDR4-2666 DIMMs (DUAL RANKED), 768 GB/node, 19.2 GB/core
+2 x 2TB SATA disk
+4 x 2TB NVMe SSD
+1 x EDR 100Gb/s Infiniband network interface for MPI and Data traffic
+High Memory Nodes
+Big Purple includes 4 production Large Memory (Fat) compute nodes for processes with extremely high main memory requirements and data sets that will not fit into the memory of the CPU nodes. These nodes can be accessed through the Slurm job scheduler in the fn_short, fn_medium, and fn_long partitions.
+
+4 x Cray CS500 1211
+2 x Skylake 6148, 20-core, 2.4GHz, 150W processors
+24 x 64GB DDR4-2666 DIMMs (QUAD RANKED), 24x 64GB DDR4-2666 DIMMs, 1536 GB/node, 38.4 GB/core
+2 x 2TB SATA disk
+4 x 2TB NVMe SSD
+1 x EDR 100Gb/s Infiniband network interface for MPI and Data traffic
+Data Mover Nodes
+Big Purple includes 4 dedicated data mover nodes for ingesting data or migrating data between storage platforms. These node can be access through the Data Mover Partition. These nodes can also be used for transferring data between the system and CIFS/SMB mounts. Instruction to request this feature are located in the "Requesting CIFS/SMB Share on Data Mover Nodes" section
+
+4 x Cray CS500
+2 x Skylake 6148, 20-core, 2.4GHz, 150W processors
+12 x 32GB DDR4-2666 DIMMs (DUAL RANKED) , 384 GB/node, 9.6 GB/core
+1 x 2TB SATA disk
+1 x 2TB NVMe SSD
+1 x EDR 100Gb/s Infiniband network interface for MPI and Data traffic
+1 x 40Gb/s NYUMC network interface for system access

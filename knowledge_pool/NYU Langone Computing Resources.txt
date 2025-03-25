@@ -1,0 +1,56 @@
+Established in 2009 and based in the wider NYU Langone Medical Center Information Technology (MCIT) group, we maintain locally installed HPC infrastructure with substantial computing and data-storage capabilities. We work in partnership with other core facilities, including the following:
+
+Genome Technology Center, to store locally produced next-generation sequencing data
+Applied Bioinformatics Laboratories, to provide informatics services on data sets acquired from the Genome Technology Center or external sources
+Cryo–Electron Microscopy Laboratory, for image storage, analysis, and structure determinations
+We provide access to data-storage resources attached to a powerful supercomputer and a software stack. Opens in a new tab capable of executing sophisticated deep learning, predictive analytics, image processing, and mathematical modeling algorithms with a variety of data types. Our computing environment provides a shared platform for development of new computational workflows, support of clinical trials informed by the latest research in molecular biology, and enabling discoveries that lead to better diagnosis, treatment, and prevention of disease.
+
+Systems
+UltraViolet. Opens in a new tab: NYU Langone’s distributed-memory, high-performance computing cluster went live in July 2018. BigPurple is a hybrid cluster consisting of 157 compute nodes, 87 of which include graphics processing units (GPUs) for a total of 376 GPUs. BigPurple has 8 service nodes, 4 highly available login nodes, 4 data mover nodes, 8 high-memory nodes, and a 200Gb Infiniband-2 HDR interconnect.
+
+A variety of novel technologies, including Intel Skylake processors, NVIDIA Tesla V100 GPUs, NVIDIA A100 Tensor Core GPUs, NVLINK, NVMe SSD, GPUDirect RDMA, adaptive routing, and in-network memory/computing, are implemented in this supercomputer designed to advance such diverse computational workflows as machine learning, image analysis, predictive health analytics, bioinformatics, and massively parallel biomolecular simulations.
+
+Skynet: This is NYU Langone's high-performance computing cluster wholly dedicated to radiology research. The 50-node cluster with 2 head nodes is outfitted with the IBM Power9 systems and NVIDIA Volta and T4 GPUs. Skynet encompasses a total of 192 GPUs, 8,000 CPU cores, and 119,808 tensor cores.
+
+High Performance Parallel Storage. Opens in a new tab: Our core's Spectrum Ccale (GPFS) storage system includes 750 terabytes (TB) of ultra-fast, flash-based shared scratch for accelerated input/output and 14 petabytes (PB) of replicated persistent storage with long-term archiving capabilities.
+
+Open OnDemand: This cloud-like HPC web interface delivers an intuitive user experience.
+
+HPC Portal. Opens in a new tab: Our interactive web portal is the central location for information, documentation, system utilization, and job metrics.
+
+New Users
+Anyone from the NYU Langone community with a valid Kerberos ID and an HPC account can request access to the HPC cluster. Opens in a new tab.
+
+To apply for an account, please email us at hpc_admins@nyulangone.org with the subject line “HPC Account Request.” Include the following information in the body of the email:
+
+the new user’s full name
+the new user’s MCIT-assigned Kerberos ID
+the new user’s email address (to receive important announcements via our mailing list)
+the department or center of the new user
+the name of the new user’s principal investigator
+the title of the project for which HPC resources are to be used
+a brief description of the research being conducted by the new user
+a brief description of the HPC needs, such as data storage, computing power, data transfers, remote access (from outside the MCIT network), and so on
+Requests for multiple accounts can be sent in a single email. Accounts are usually created within one business day. HPC administrators will notify the new user with account confirmation.
+
+Upon request, a consultation for a prospective user can be arranged. The initial consultation is free and can be done over the phone. Possible topics include the following:
+
+overview of the available resources and services
+best practices for accessing and using the resources
+user responsibilities associated with HPC accounts
+Acknowledgment
+If you utilize any HPC resources including computational, storage, services, applications, or our expertise, we ask that you acknowledge the HPC Core in any grants, papers, posters, or presentations. The following acknowledgment is suggested: "The computational requirements for this work were supported in part by the NYU Langone High Performance Computing (HPC) Core's resources and personnel."
+
+Contact Us
+The High Performance Computing Core is located at the address below. You can also email us at hpc_admins@nyulangone.org.
+
+We also hold a weekly face-to-face meeting with the team (no appointment necessary) on the main NYU Langone campus. All HPC account holders receive a weekly email notice with the time and place of the meeting.
+
+In addition, we are available to meet with users individually outside of the weekly meeting to discuss any concerns. Please email us to coordinate.
+
+High Performance Computing Core
+Medical Center Information Technology Research
+NYU Langone Health
+One Park Avenue, 9th Floor
+New York, NY 10016
+hpc_admins@nyulangone.org
