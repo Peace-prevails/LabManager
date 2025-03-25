@@ -357,7 +357,7 @@ def get_optimized_prompt_templates():
     
     # Concise factual template
     factual_template = """
-Do not make up information.Be specific. If you mention resources or items in a list, be sure to actually list them. Answer based on this context:
+Must organize your answer in a very fluent language. Do not make up information.Be specific. If you mention resources or items in a list, be sure to actually list them. Answer based on this context:
 {context}
 
 Question: {question}
@@ -366,7 +366,7 @@ Answer:"""
 
     # Concise creative template
     creative_template = """
-Use fluent and friendly language. Create content based on this context:
+Must organize your answer in a very fluent language. Use fluent and friendly language. Create content based on this context:
 {context}
 
 Request: {question}
@@ -375,7 +375,7 @@ Creative response:"""
 
     # Concise summary template
     summary_template = """
-Be logical and clear. Summarize based on this context:
+Must organize your answer in a very fluent language. Be logical and clear. Summarize based on this context:
 {context}
 
 Request: {question}
@@ -384,7 +384,7 @@ Summary:"""
 
     # Concise analysis template
     analysis_template = """
-Be precise and specific. Analyze based on this context:
+Must organize your answer in a very fluent language.Be precise and specific. Analyze based on this context:
 {context}
 
 Request: {question}
@@ -768,7 +768,7 @@ def analyze_uploaded_file(file_path, query, qa_chain):
             summarization_prompt = """
 You are a research assistant tasked with creating a concise summary of a document.
 Focus on the key points, main themes, and important details.
-Organize your summary in a clear, structured manner.
+Must Organize your summary in a fluent, structured language. 
 
 Content to summarize:
 {text}
@@ -843,6 +843,7 @@ Related documents from knowledge base:
 
 Please generate 3 different future research directions that has connections between the uploaded document and our knowledge base.
 Focus on potential applications, collaborations, or extensions of the research.
+Must organize your answer in a fluent, structured language.
 Format as a numbered list.
 
 Research Directions:
@@ -885,7 +886,7 @@ User Query: {query}
 
 Please provide a concise and accurate answer to the user's query based on the document summary.
 If the summary doesn't contain relevant information to answer the query, say so clearly.
-Format your answer in a clear, friendly manner.
+Must Organize your answer in a fluent, structured language.
 
 Answer:
 """
