@@ -256,7 +256,7 @@ def setup_llm():
         # Enhanced model parameters for better speed/performance balance
         model_params = {
             "model_path": model_path,
-            "temperature": 0.1,           # Lower temperature for more deterministic responses
+            "temperature": 0.2,           # Lower temperature for more deterministic responses
             "max_tokens": 1024,           # Increased output length for more comprehensive responses
             "n_ctx": 4096,                # Context window size
             "n_batch": 512,               # Increased batch size for faster processing
@@ -357,7 +357,9 @@ def get_optimized_prompt_templates():
     
     # Concise factual template
     factual_template = """
-Must organize your answer in a very fluent language. Do not make up information.Be specific. If you mention resources or items in a list, be sure to actually list them. Answer based on this context:
+The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
+Do not include document separators or section markers in your answer. Do not make up information.
+Be specific and detailed in your response. Answer based on this context:
 {context}
 
 Question: {question}
@@ -366,7 +368,9 @@ Answer:"""
 
     # Concise creative template
     creative_template = """
-Must organize your answer in a very fluent language. Use fluent and friendly language. Create content based on this context:
+The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
+Do not include document separators or section markers in your answer. Do not make up information.
+Be specific and friendly in your response.Create content based on this context:
 {context}
 
 Request: {question}
@@ -375,7 +379,9 @@ Creative response:"""
 
     # Concise summary template
     summary_template = """
-Must organize your answer in a very fluent language. Be logical and clear. Summarize based on this context:
+The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
+Do not include document separators or section markers in your answer. Do not make up information.
+Be concise and logical in your response. Summarize based on this context:
 {context}
 
 Request: {question}
@@ -384,7 +390,9 @@ Summary:"""
 
     # Concise analysis template
     analysis_template = """
-Must organize your answer in a very fluent language.Be precise and specific. Analyze based on this context:
+The following context contains information from multiple sources. Synthesize this information into a coherent, fluent response.
+Do not include document separators or section markers in your answer. Do not make up information.
+Be specific and precise in your response. Analyze based on this context:
 {context}
 
 Request: {question}
@@ -527,7 +535,7 @@ def combine_documents_with_token_management(docs, query, max_context_size, promp
         print(f"Added document: {doc.metadata.get('source', 'Unknown')} ({doc_tokens} tokens)")
     
     # Join all document parts with clear separators
-    context_text = "\n\n---\n\n".join(context_parts)
+    context_text = "\n\n".join(context_parts)
     
     print(f"\nFinal context: {used_tokens} tokens from {len(used_docs)} documents")
     
