@@ -256,7 +256,7 @@ def setup_llm():
         # Enhanced model parameters for better speed/performance balance
         model_params = {
             "model_path": model_path,
-            "temperature": 0.2,           # Lower temperature for more deterministic responses
+            "temperature": 0.1,           # Lower temperature for more deterministic responses
             "max_tokens": 1024,           # Increased output length for more comprehensive responses
             "n_ctx": 4096,                # Context window size
             "n_batch": 512,               # Increased batch size for faster processing
