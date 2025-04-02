@@ -16,7 +16,7 @@ Ensure you have the following installed:
 
 1. Install Python dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 2. In your virtual environment, start the Flask server:
