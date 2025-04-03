@@ -9,6 +9,7 @@ A simple LLM application with Flask backend and React frontend.
 Ensure you have the following installed:
 - Flask
 - React
+- If react page is blank, try:
 npm uninstall styled-components
 npm install styled-components@^6
 
