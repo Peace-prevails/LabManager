@@ -9,6 +9,8 @@ A simple LLM application with Flask backend and React frontend.
 Ensure you have the following installed:
 - Flask
 - React
+npm uninstall styled-components
+npm install styled-components@^6
 
 ## Setup Instructions
 
