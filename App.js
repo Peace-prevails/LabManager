@@ -1133,28 +1133,34 @@ const handleImportDirectory = async () => {
   setIsLoading(true);
   setError(null);
   
+  // Show immediate feedback
+  alert(`Starting import of directory: ${directoryPath}... Please wait.`);
+  
   try {
     const response = await axios.post(`${API_BASE_URL}/api/documents/directory`, {
       directory_path: directoryPath
     });
     
-    // Clear field on success
+    // Clear directory path on success
     setDirectoryPath('');
     
     // Refresh data
     await fetchDatabaseStats();
     await fetchSources();
     
-    alert(`Successfully imported ${response.data.document_count} documents (${response.data.chunk_count} chunks)!`);
+    // Show success message
+    alert(`Directory imported successfully! Added ${response.data.document_count || 0} documents (${response.data.chunk_count || 0} chunks).`);
   } catch (err) {
     console.error('Error importing directory:', err);
     setError(err.response?.data?.message || 'Failed to import directory');
+    alert(`Error importing directory: ${err.response?.data?.message || 'An unknown error occurred'}`);
   } finally {
     setIsLoading(false);
   }
 };
 
 // Upload file to knowledge base
+// Enhanced handleFileUpload function with better feedback
 const handleFileUpload = async (e) => {
   if (!e.target.files || !e.target.files[0]) return;
   
@@ -1164,6 +1170,9 @@ const handleFileUpload = async (e) => {
   
   setIsLoading(true);
   setError(null);
+  
+  // Show immediate feedback
+  alert(`Starting upload of "${file.name}"... Please wait for processing to complete.`);
   
   try {
     const response = await axios.post(`${API_BASE_URL}/api/documents/file`, formData, {
@@ -1179,10 +1188,16 @@ const handleFileUpload = async (e) => {
     await fetchDatabaseStats();
     await fetchSources();
     
-    alert(`File "${file.name}" imported successfully! Added ${response.data.chunk_count} chunks.`);
+    if (response.data.error) {
+      setError(response.data.message || 'Failed to process uploaded file');
+      alert(`Error: ${response.data.message || 'Failed to process uploaded file'}`);
+    } else {
+      alert(`File "${file.name}" imported successfully! Added ${response.data.chunk_count || 0} chunks.`);
+    }
   } catch (err) {
     console.error('Error uploading file:', err);
     setError(err.response?.data?.message || 'Failed to upload file');
+    alert(`Error uploading file: ${err.response?.data?.message || 'An unknown error occurred'}`);
   } finally {
     setIsLoading(false);
   }
