@@ -160,11 +160,11 @@ def download_model():
             return False
 
 # Step 2: Load and process documents
-class ImprovedPyPDFLoader:
+class ImprovedPyPDFLoader(PyPDFLoader):
     """PDF loader with improved text cleaning"""
     
     def __init__(self, file_path):
-        self.file_path = file_path
+        super().__init__(file_path)
     
     def load(self):
         return load_pdf_with_better_parsing(self.file_path)
