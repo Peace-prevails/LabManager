@@ -16,7 +16,7 @@ npm install styled-components@^6
 ## Setup Instructions
 
 ### Backend Setup
-
+If you haven't set up the application, do step 1 first,else directly run step 2 in your terminal
 1. Install Python dependencies:
 ```bash
 pip install -r requirement.txt
