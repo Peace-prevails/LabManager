@@ -36,9 +36,10 @@ After starting the backend server, start the frontend.
 Use the App.js as the frontend code
 1. Navigate to the frontend directory:
 ```bash
-cd [your react directory]
+cd [your react directory] # cd lab-qa-system 
 ```
 The react directory is where you put your App.js file.
+
 2. Start the React application:
 ```bash
 npm start
